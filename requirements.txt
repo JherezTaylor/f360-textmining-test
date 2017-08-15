@@ -1,3 +1,4 @@
 spacy
 jupyter
 bs4
+jieba
