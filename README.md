@@ -25,11 +25,15 @@ pip install -r requirements.txt
 ```
 
 After installing the packages execute the follow from your
-shell:
+shell [this can't be skipped]:
 
 ```bash
 pynlpir update
 ```
+
+When I tested this on a fresh environment, the pynlpir update failed
+for a few consecutive tries. It eventually succeeed but let me know
+if you are unable to update the license.
 
 ## Run
 
