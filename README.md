@@ -1,4 +1,5 @@
 # f360-textmining-test
+
 Python code for text mining test
 
 ## Environment
@@ -16,7 +17,7 @@ shell:
 pynlpir update
 ```
 
-## Run 
+## Run
 
 To run the code, start the notebook server with:
 
